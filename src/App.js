@@ -1,6 +1,7 @@
 import React from 'react';
 import Menu from './components/Menu';
 import Cuerpo from './components/Principal.jsx';
+import Formulario from './components/Formulario.jsx';
 import Flayer3 from './components/Flayer3.jsx';
 import Flayer4 from './components/Flayer4.jsx';
 import Pie from './components/Pie.jsx';
@@ -9,6 +10,7 @@ function App() {
         <div>
             <Menu/>
             <Cuerpo/>
+            <Formulario/>
             <Flayer3/>
             <Flayer4/>
             <Pie/>
