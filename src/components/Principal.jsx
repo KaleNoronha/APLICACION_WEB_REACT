@@ -105,7 +105,6 @@ function Main(props) {
                     </div>
                 </div>
             </section>
-           
             
         </main>
     );
